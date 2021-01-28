@@ -1,0 +1,75 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	bitFont: {
+		file: 8-bit pusab.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_0_0_0_255: {
+		r: 0
+		g: 0
+		b: 0
+		a: 1
+	}
+	RGBA_157_96_19_255: {
+		r: 0.6166667
+		g: 0.37886447
+		b: 0.07811111
+		a: 1
+	}
+	RGBA_177_15_15_255: {
+		r: 0.69666666
+		g: 0.060377777
+		b: 0.060377777
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	startButton_down: {
+		name: startButton
+		color: RGBA_177_15_15_255
+	}
+	ContainerCase_Pressed: {
+		name: ContainerCase
+		color: RGBA_157_96_19_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: ContainerCase
+		down: ContainerCase_Pressed
+		pressedOffsetX: 2
+		pressedOffsetY: -2
+	}
+}
+	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+		default: {
+			up: ContainerCase
+			down: ContainerCase_Pressed
+			pressedOffsetX: 2
+			pressedOffsetY: -2
+		}
+	}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: bitFont
+		fontColor: RGBA_0_0_0_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: {
+	default-horizontal: {
+		background: bar
+		knobBefore: barProgress
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: {
+		background: AncientContainer
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+}

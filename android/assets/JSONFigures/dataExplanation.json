@@ -1,0 +1,110 @@
+[
+  {
+    "ID" : 1,
+    "type" : "épanalepse",
+    "explanation" : "reprise d’un groupe de mot au début d’une proposition",
+    "example" : ""
+  },
+  {
+    "ID" : 2,
+    "type" : "épanadiplose",
+    "explanation" : "reprise à la fin d’une phrase du même mot que celui utilisé en début de phrase",
+    "example" : ""
+  },
+  {
+    "ID" : 3,
+    "type" : "parallélisme",
+    "explanation" : "apposition de deux constructions de phrase identiques dans un texte",
+    "example" : ""
+  },
+  {
+    "ID" : 4,
+    "type" : "anaphore",
+    "explanation" : "répétition du même terme ou de la même expression en début de phrase et à plusieurs reprises",
+    "example" : ""
+  },
+  {
+    "ID" : 5,
+    "type" : "gradation",
+    "explanation" : "énumération allant croissant ou décroissant en termes d’intensité",
+    "example" : ""
+  },
+  {
+    "ID" : 6,
+    "type" : "accumulation",
+    "explanation" : "énumération de plusieurs termes appartenant à la même catégorie dans le but de créer un effet d’amplification",
+    "example" : ""
+  },
+  {
+    "ID" : 7,
+    "type" : "hyperbole",
+    "explanation" : "exagérer, amplifier une idée ou une réalité, dans le but de la renforcer et la mettre en avant",
+    "example" : ""
+  },
+  {
+    "ID" : 8,
+    "type" : "antonomase",
+    "explanation" : "utiliser un nom propre comme un nom commun ou un nom commun comme un nom propre",
+    "example" : ""
+  },
+  {
+    "ID" : 9,
+    "type" : "hypallage",
+    "explanation" : "lier deux termes syntaxiquement alors qu’on s’attendrait plutôt à voir  l’un des deux lié à un troisième terme présent à proximité dans le texte",
+    "example" : ""
+  },
+  {
+    "ID" : 10,
+    "type" : "symbole",
+    "explanation" : "utilisation d’une image comme référence à quelque chose",
+    "example" : ""
+  },
+  {
+    "ID" : 11,
+    "type" : "périphrase",
+    "explanation" : "remplacer un mot par sa définition ou une expression plus longue ayant le même sens",
+    "example" : ""
+  },
+  {
+    "ID" : 12,
+    "type" : "synecdoque",
+    "explanation" : "assigne à un mot un sens plus large",
+    "example" : ""
+  },
+  {
+    "ID" : 13,
+    "type" : "métonymie",
+    "explanation" : "désigne une chose par un autre terme qui convient pour la reconnaître, avec une relation de cause à effet",
+    "example" : "Cent voiles flottent à l’horizon"
+  },
+  {
+    "ID" : 14,
+    "type" : "image littéraire",
+    "explanation" : "rapproche deux champs lexicaux similaires dans le but de donner plus de sens à la phrase",
+    "example" : "Le soleil noir"
+  },
+  {
+    "ID" : 15,
+    "type" : "allégorie",
+    "explanation" : "représentation indirecte qui emploie une personne, un être animé ou inanimé, une action, comme signe d’une autre chose généralement une idée abstraite",
+    "example" : "Je veux peindre la France une mère affligée, qui est, entre ses bras, de deux enfants chargée"
+  },
+  {
+    "ID" : 16,
+    "type" : "personification",
+    "explanation" : "consiste à attribuer des propriétés humaines à un animal ou à une chose dans le but de les faire parler ou agir",
+    "example" : "Avec quelle rigueur, Destin, tu me poursuis"
+  },
+  {
+    "ID" : 17,
+    "type" : "métaphore",
+    "explanation" : "désigne une chose par une autre qui lui ressemble ou qui a une qualité similaire",
+    "example" : "Il pleut des cordes"
+  },
+  {
+    "ID" : 18,
+    "type" : "comparaison",
+    "explanation" : "mise en relation, à l’aide d’un mot de comparaison appelé le « comparatif », de deux réalités, choses, personnes différentes mais partageant des similarités",
+    "example" : "La mer est si bleue qu’il n’y a que le sang qui soit plus rouge"
+  }
+]

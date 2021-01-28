@@ -1,0 +1,61 @@
+
+skinV1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AncientContainer
+  rotate: false
+  xy: 1, 335
+  size: 48, 48
+  split: 16, 16, 16, 16
+  pad: 16, 16, 0, 0
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+ContainerCase
+  rotate: false
+  xy: 67, 385
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+Cursor
+  rotate: false
+  xy: 197, 419
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+startButton
+  rotate: false
+  xy: 1, 403
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+8-bit pusab
+  rotate: false
+  xy: 1, 437
+  size: 504, 66
+  orig: 504, 66
+  offset: 0, 0
+  index: -1
+bar
+  rotate: false
+  xy: 1, 385
+  size: 64, 16
+  split: 3, 7, 0, 15
+  pad: 0, 0, 0, 0
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+barProgress
+  rotate: false
+  xy: 131, 419
+  size: 64, 16
+  split: 3, 6, 1, 13
+  pad: 0, 0, 0, 0
+  orig: 64, 16
+  offset: 0, 0
+  index: -1

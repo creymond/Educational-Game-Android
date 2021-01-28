@@ -1,0 +1,519 @@
+[
+  {
+    "ID" : 1,
+    "type": "comparaison",
+    "sentence": "Le monocle du général, resté entre ses paupières, comme un éclat d’obus dans sa figure vulgaire",
+    "author": "Marcel Proust",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 2,
+    "type": "comparaison",
+    "sentence": "La mer est si bleue qu’il n’y a que le sang qui soit plus rouge",
+    "author": "Françoise Soublin",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 3,
+    "type": "comparaison",
+    "sentence": "Et nous alimentons nos aimables remords comme les mendiants nourrissent leur vermine",
+    "author": "Joaquim Du Bellay",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 4,
+    "type": "comparaison",
+    "sentence": "Et cette terre était proche, et elle lui apparaissait comme un bouclier sur la mer sombre",
+    "author": "Homère",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 5,
+    "type": "comparaison",
+    "sentence": "Tu penches, grand Platane et te proposes nu, blanc comme un jeune Scythe",
+    "author": "Paul Valéry",
+    "difficulty": 3,
+    "mastery": 0
+  },
+  {
+    "ID" : 6,
+    "type": "métaphore",
+    "sentence": "Il pleut des cordes",
+    "author": "aucun",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 7,
+    "type": "métaphore",
+    "sentence": "La vieillesse est le soir de la vie",
+    "author": "aucun",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 8,
+    "type": "métaphore",
+    "sentence": "Vieil Océan, ô grand célibataire",
+    "author": "Comte de Lautréamont",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 9,
+    "type": "métaphore",
+    "sentence": "Cette faucille d’or dans le champ des étoiles",
+    "author": "Victor Hugo",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 10,
+    "type": "métaphore",
+    "sentence": "Je suis un vieux boudoir plein de roses fanées",
+    "author": "Baudelaire",
+    "difficulty": 3,
+    "mastery": 0
+  },
+  {
+    "ID" : 11,
+    "type": "personification",
+    "sentence": "Avec quelle rigueur, Destin, tu me poursuis",
+    "author": "Jean Racine",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 12,
+    "type": "personification",
+    "sentence": "On craint qu’avec Hector Troie un jour ne renaisse",
+    "author": "Jean Racine",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 13,
+    "type": "personification",
+    "sentence": "Le soleil aussi attendait Chloé, mais lui pouvait s’amuser à faire des ombres",
+    "author": "Boris Vian",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 14,
+    "type": "personification",
+    "sentence": "Un soir, j’ai assis la beauté sur mes genoux, et je l’ai trouvée amère",
+    "author": "Arthur Rimbaud",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 15,
+    "type": "personification",
+    "sentence": "Vivez, froide Nature, et revivez sans cesse ",
+    "author": "Alfred de Vigny",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 16,
+    "type": "allégorie",
+    "sentence": "L’Angleterre est un vaisseau. Notre île en a la forme : la proue tournée au Nord, elle est comme à l’ancre au milieu des mers, surveillant le continent ",
+    "author": "Alfred de Vigny",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 17,
+    "type": "allégorie",
+    "sentence": "La Déroute apparut au soldat qui s’émeut, et, se tordant les bras, cria : sauve qui peut ! ",
+    "author": "Victor Hugo",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 18,
+    "type": "allégorie",
+    "sentence": "Je veux peindre la France une mère affligée, qui est, entre ses bras, de deux enfants chargée.",
+    "author": "Agrippa d’Aubigné",
+    "difficulty": 2,
+    "mastery": 0
+  },
+
+  {
+    "ID" : 19,
+    "type": "image littéraire",
+    "sentence": "Le soleil noir",
+    "author": "Gerard de Nerval",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 20,
+    "type": "image littéraire",
+    "sentence": "Les souvenirs sont cors de chasse, dont meurt le bruit parmi le vent",
+    "author": "Guillaume Apollinaire",
+    "difficulty": 2,
+    "mastery": 0
+  },
+
+  {
+    "ID" : 21,
+    "type": "métonymie",
+    "sentence": "Rodrigue, as-tu du cœur",
+    "author": "Pierre Corneille",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 22,
+    "type": "métonymie",
+    "sentence": "Cent voiles flottent à l’horizon",
+    "author": "aucun",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 23,
+    "type": "métonymie",
+    "sentence": "Consulter le Larousse.",
+    "author": "aucun",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 24,
+    "type": "métonymie",
+    "sentence": "Il est monté sur le trône de fer ",
+    "author": "aucun",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 25,
+    "type": "synecdoque",
+    "sentence": "Son vélo a crevé",
+    "author": "aucun",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 26,
+    "type": "synecdoque",
+    "sentence": "Le bateau crache une fumée noire",
+    "author": "aucun",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 27,
+    "type": "synecdoque",
+    "sentence": "Regarde le vison que je viens d’acheter",
+    "author": "aucun",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 28,
+    "type": "synecdoque",
+    "sentence": "Respectez ses cheveux blancs",
+    "author": "aucun",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 29,
+    "type": "synecdoque",
+    "sentence": "Un troupeau de quarante têtes",
+    "author": "aucun",
+    "difficulty": 3,
+    "mastery": 0
+  },
+
+  {
+    "ID" : 30,
+    "type": "périphrase",
+    "sentence": "La ville rose",
+    "author": "aucun",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 31,
+    "type": "périphrase",
+    "sentence": "La langue de Shakespeare",
+    "author": "aucun",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 32,
+    "type": "périphrase",
+    "sentence": "Le billet vert",
+    "author": "aucun",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 33,
+    "type": "périphrase",
+    "sentence": "Les forces de l’ordre",
+    "author": "aucun",
+    "difficulty": 3,
+    "mastery": 0
+  },
+
+  {
+    "ID" : 34,
+    "type": "symbole",
+    "sentence": "Le poète est semblable au prince des nuées",
+    "author": "Baudelaire",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 35,
+    "type": "symbole",
+    "sentence": "Aimer jusqu’à la déchirure",
+    "author": "Jacques Brel",
+    "difficulty": 2,
+    "mastery": 0
+  },
+
+  {
+    "ID" : 36,
+    "type": "hypallage",
+    "sentence": "Un vieillard en or avec une montre en deuil",
+    "author": "Jacques Prévert",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 37,
+    "type": "hypallage",
+    "sentence": "Les habitants de l’orgueilleuse Rome",
+    "author": "Jean Racine",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 38,
+    "type": "hypallage",
+    "sentence": "Comme passe le verre au travers du soleil.",
+    "author": "Paul Valéry",
+    "difficulty": 3,
+    "mastery": 0
+  },
+
+  {
+    "ID" : 39,
+    "type": "antonomase",
+    "sentence": "La capitale de la France",
+    "author": "aucun",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 40,
+    "type": "antonomase",
+    "sentence": "Un dom juan",
+    "author": "aucun",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 41,
+    "type": "antonomase",
+    "sentence": "Un gavroche",
+    "author": "aucun",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 42,
+    "type": "antonomase",
+    "sentence": "Le Prince des poètes",
+    "author": "aucun",
+    "difficulty": 3,
+    "mastery": 0
+  },
+  {
+    "ID" : 43,
+    "type": "hyperbole",
+    "sentence": "Je meurs de soif ",
+    "author": "aucun",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 44,
+    "type": "hyperbole",
+    "sentence": "Je n’ai plus que la peau sur les os",
+    "author": "aucun",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 45,
+    "type": "hyperbole",
+    "sentence": "Vous êtes le Phénix des hôtes de ces bois",
+    "author": "La Fontaine",
+    "difficulty": 3,
+    "mastery": 0
+  },
+  {
+    "ID" : 46,
+    "type": "accumulation",
+    "sentence": "Adieu, veau, vache, cochon, couvée",
+    "author": "La Fontaine,",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 47,
+    "type": "accumulation",
+    "sentence": "Quand on m’aura jeté, vieux flacon désolé, décrépit, poudreux, sale, abject",
+    "author": "Baudelaire",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 48,
+    "type": "accumulation",
+    "sentence": "Rien n’était si beau, si leste, si brillant, si bien ordonné que les deux armées",
+    "author": "Voltaire",
+    "difficulty": 3,
+    "mastery": 0
+  },
+  {
+    "ID" : 49,
+    "type": "gradation",
+    "sentence": "Va, cours, vole, et nous venge",
+    "author": "Corneille",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 50,
+    "type": "gradation",
+    "sentence": "C’est un roc ! C’est un pic ! C’est un cap ! Que dis-je, c’est un cap ? C’est une péninsule ! ",
+    "author": "Cyrano de Bergerac",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 51,
+    "type": "gradation",
+    "sentence": "C’en est fait ; je n’en puis plus ; je me meurs ; je suis mort ; je suis enterré",
+    "author": "Molière",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 52,
+    "type": "gradation",
+    "sentence": "Vous voulez qu’un roi meure, et pour son châtiment. Vous ne donnez qu’un jour, qu’une heure, qu’un moment ! ",
+    "author": "Racine",
+    "difficulty": 3,
+    "mastery": 0
+  },
+
+  {
+    "ID" : 53,
+    "type": "anaphore",
+    "sentence": "Patience, patience, Patience dans l’azur ! Chaque atome de silence. Est la chance d’un fruit mûr !",
+    "author": "Paul Valéry",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 54,
+    "type": "anaphore",
+    "sentence": "Paris ! Paris outragé ! Paris brisé ! Paris martyrisé ! Mais Paris libéré ! ",
+    "author": "Charles de Gaulle",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 55,
+    "type": "anaphore",
+    "sentence": "Tu es inscrite dans les lignes du plafond. Tu es inscrite dans les yeux que j’aime",
+    "author": "Paul Éluard",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 56,
+    "type": "parallélisme",
+    "sentence": "Innocents dans un bagne, anges dans un enfer",
+    "author": "Victor Hugo",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 57,
+    "type": "parallélisme",
+    "sentence": "Mon cheval sera la joie. Ton cheval sera l’amour ",
+    "author": "Victor Hugo",
+    "difficulty": 2,
+    "mastery": 0
+  },
+
+  {
+    "ID" : 58,
+    "type": "épanadiplose",
+    "sentence": "L’homme peut guérir de tout, non de l’homme",
+    "author": "Georges Bernanos",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 59,
+    "type": "épanadiplose",
+    "sentence": "Trop d’impôt tue l’impôt",
+    "author": "aucun",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 60,
+    "type": "épanadiplose",
+    "sentence": "L’enfance sait ce qu’elle veut. Elle veut sortir de l’enfance",
+    "author": "Jean Cocteau",
+    "difficulty": 3,
+    "mastery": 0
+  },
+  {
+    "ID" : 61,
+    "type": "épanalepse",
+    "sentence": "Ô triste, triste était mon âme. À cause, à cause d’une femme",
+    "author": "Verlaine",
+    "difficulty": 1,
+    "mastery": 0
+  },
+  {
+    "ID" : 62,
+    "type": "épanalepse",
+    "sentence": "De l’audace, encore de l’audace, toujours de l’audace",
+    "author": "Danton",
+    "difficulty": 2,
+    "mastery": 0
+  },
+  {
+    "ID" : 63,
+    "type": "épanalepse",
+    "sentence": "Je suis gai ! Je suis gai ! Vive le vin et l’art !",
+    "author": "Émile Nelligan",
+    "difficulty": 3,
+    "mastery": 0
+  }
+
+
+
+
+]
+
