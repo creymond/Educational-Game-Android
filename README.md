@@ -10,7 +10,7 @@ retrieve afterwards the figures of speech they encountered. The application is d
 
 ## Authors
 
-Cyril Reymond [@cyreymond](https://github.com/creymond?tab=repositories)
+Cyril Reymond [@creymond](https://github.com/creymond?tab=repositories)
  
 Ali Zahidi
 
